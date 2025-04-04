@@ -1,9 +1,6 @@
-## Project Folder Structure
-
-
 ## Project Overview
 
-This project implements a retrieval-augmented generation (RAG) system using Llama2 integrated with Ollama. It enhances the language model by dynamically retrieving relevant external data during inference, thereby improving response accuracy and contextual relevance. The modular folder structure separates data management, model code, experiments, and documentation, facilitating easy maintenance and scalability for various research applications in AI.
+This project implements a retrieval-augmented generation (RAG) system using Llama2 integrated with Ollama along with FAISS Vector Store. It enhances the language model by dynamically retrieving relevant external data which are research papers in this project, thereby improving the performance of the model.
 
 ## Demo Video (Click to Watch it!)
 
