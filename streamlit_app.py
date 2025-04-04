@@ -32,7 +32,7 @@ def generate_answer(query, context_text, llm):
         f"Question: {query}\n\n"
         f"Answer:"
     )
-    # Call the Llama 2 model via Ollama using LangChain
+    
     answer = llm(prompt)
     return answer
 
